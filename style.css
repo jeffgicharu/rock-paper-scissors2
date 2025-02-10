@@ -5,4 +5,11 @@ body{
 
 .choices button{
     font-size: 18px;
+    padding: 10px;
+    margin: 5px;
+}
+
+#results{
+    margin-top: 20px;
+    font-size: 20px;
 }
